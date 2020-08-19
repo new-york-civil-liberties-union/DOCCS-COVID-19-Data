@@ -6,6 +6,7 @@ Contents
 	* For example, this file shows that as of `2020-07-25`, DOCCS has seen 604 COVID-19 positives.
 * `changes.csv` documents how counts in `reports.csv` changed between reports, indicated by `START` and `END` dates.
 	* For example, this file shows that between `2020-07-22` and `2020-07-23`, Green Haven reported a death from COVID-19.
+	* The folder `pdf` contains all daily reports by DOCCS that were used to create `changes.csv` AND `reports.csv`.
 
 Data Notes
 
